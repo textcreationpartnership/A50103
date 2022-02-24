@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian temper of moderation described and recommended in a sermon before the Right Honourable the Lord Mayor, &amp;c. in Gvild-Hall-Chappel on the first Sunday in Hillary term, Jan. 26, 1689/1690 / by Samuel Masters ...</title>
+            <author>Masters, Samuel, 1645 or 6-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50103</idno>
+            <idno type="STC">Wing M1068</idno>
+            <idno type="STC">ESTC R31219</idno>
+            <idno type="EEBO-CITATION">11791434</idno>
+            <idno type="OCLC">ocm 11791434</idno>
+            <idno type="VID">49216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49216)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian temper of moderation described and recommended in a sermon before the Right Honourable the Lord Mayor, &amp;c. in Gvild-Hall-Chappel on the first Sunday in Hillary term, Jan. 26, 1689/1690 / by Samuel Masters ...</title>
+                  <author>Masters, Samuel, 1645 or 6-1693.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Awnsham Churchill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXC [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moderation --  Religious aspects --  Christianity.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:49216:1"/>
+            <pb facs="tcp:49216:1"/>
+            <p>Mr. <hi>MASTERS</hi>'s SERMON PREACHED before the LORD MAYOR, <hi>JAN<g ref="char:V">Ʋ</g>ARY</hi> 26. 1689/90.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:49216:2"/>
+            <p>PILKINGTON MAYOR.</p>
+            <p>
+               <hi>Martis</hi> xviii<hi rend="sup">o</hi>. <hi>die Martii</hi> 1689/90. <hi>Annoque Regni Regis &amp; Regine</hi> Willielmi <hi>&amp;</hi> Mariae, Angliae, <hi>&amp;c. Secundo.</hi>
+            </p>
+            <p>THIS Court doth deſire Mr. <hi>Masters</hi> to Print his Sermon Preached at <hi>Guild-hall</hi>-Chap<g ref="char:EOLhyphen"/>pel, the 26th of <hi>January</hi> laſt, before the Lord Mayor and Aldermen of this City.</p>
+            <p>
+               <hi>Wagſtaffe.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49216:2"/>
+            <p>THE Chriſtian Temper OF MODERATION, Deſcribed and Recommended, in a SERMON Before the Right Honourable the Lord Mayor, &amp;c. IN <hi>G<g ref="char:V">Ʋ</g>ILD-HALL</hi>-Chappel, ON The firſt <hi>Sunday</hi> in <hi>Hillary</hi> Term, <hi>Jan.</hi> 26. 1689/90.</p>
+            <p>By <hi>Samuel Maſters,</hi> B. D. Preacher to the Hoſpital and Precinct of <hi>Bridewell.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Awnſham Churchill,</hi> at the <hi>Black-Swan</hi> in <hi>Ave-Mary-Lane.</hi> MDCXC.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49216:3"/>
+            <pb facs="tcp:49216:3"/>
+            <head>To the Right Honourable Sir <hi>THOMAS PILKINGTON,</hi> LORD MAYOR of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>IT was with no great confidence that I appeared before ſuch an Awful Aſ<g ref="char:EOLhyphen"/>ſembly of the Reverend <hi>Judges</hi> and the Chief <hi>Magiſtrates</hi> of this City; nor is it without ſome uneaſie reluctance, that I now expoſe this Diſcourſe to ſo publick a View; but having received Your <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi>'s Order, I find it neceſſary to comply, leſt I ſhould ſeem to diſpute your Judgment, or conteſt your Authority. It was the <hi>Sub<g ref="char:EOLhyphen"/>ject,</hi> I know, that recommended the <hi>Diſ<g ref="char:EOLhyphen"/>courſe;</hi> and the favourable acceptance it met with, is an argument of the <hi>Excellent Temper</hi> of thoſe who approv'd it; and how happy may we not think our ſelves, when they who <hi>Interpret</hi> and <hi>Adminiſter</hi> our Laws, are ſuch Friends to <hi>Moderation?</hi> I have not deſign'd in this Diſcourſe to
+<pb facs="tcp:49216:4"/>plead the Cauſe of any <hi>Party,</hi> or to deter<g ref="char:EOLhyphen"/>mine any of the <hi>Caſes</hi> of <hi>Difference</hi> which are among us; but to recommend that <hi>Mo<g ref="char:EOLhyphen"/>deration</hi> which all Parties <hi>want,</hi> and which would be the ſhorteſt and ſureſt Ex<g ref="char:EOLhyphen"/>pedient for compoſing all our Differences. I muſt expect that they who have not this <hi>good Temper,</hi> will be angry with Me, as they are with one another; but whatever they may object, I am conſcious of no other Deſign in this Diſcourſe, but to promote Religion, and the Publick Good of the <hi>Church</hi> and <hi>Nation,</hi> to which I am rela<g ref="char:EOLhyphen"/>ted. May Your <hi>Lordſhip</hi> continue, by Your good <hi>Conduct</hi> and <hi>Example,</hi> to in<g ref="char:EOLhyphen"/>creaſe and encourage this <hi>Moderation</hi> a<g ref="char:EOLhyphen"/>mong us; and if this Diſcourſe can contribute any thing thereto, it will much rejoice,</p>
+            <closer>
+               <salute>MY LORD,</salute> 
+               <signed>Your Lordſhip's moſt Faithful and moſt Humble Servant, <hi>Samuel Maſters.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:49216:4"/>
+            <head>THE CHISTIAN TEMPER OF Moderation, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PHILIP IV. 5.</hi>
+                  </bibl>
+                  <p>Let your Moderation be known unto all Men; The Lord is at hand.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this, and the Neigh<g ref="char:EOLhyphen"/>bouring Verſes, the Apo<g ref="char:EOLhyphen"/>ſtle lays down ſome brief Rules, which ſeem to be preſcribed for a Remedy againſt choſe Troubles that then infeſted the Church at <hi>Philippi.</hi> In the Verſe preceding the Text, he exhorts them to <hi>rejoyce in the Lord always,</hi> from whom their Faith might derive ſuch co<g ref="char:EOLhyphen"/>pious Arguments of joy, as would be ſufficient
+<pb n="2" facs="tcp:49216:5"/>to ſupport them under the ſharpeſt Perſecu<g ref="char:EOLhyphen"/>tions. And that they might be able to re<g ref="char:EOLhyphen"/>joyce in <hi>themſelves</hi> too, by converſing <hi>peaceably</hi> and <hi>comfortably</hi> one with another, he directs, in the Text, to the mutual practice of <hi>Modera<g ref="char:EOLhyphen"/>tion.</hi> And as to the Troubles ordinarily inci<g ref="char:EOLhyphen"/>dent from the World about them, he adviſeth in the next Verſe, <hi>Be careful for nothing; but in all things by prayer and ſupplication, with thanks<g ref="char:EOLhyphen"/>givings, let your requeſts be made known to God.</hi> And upon the obſervance of theſe three Rules, he aſſures them in the next words, That <hi>the peace of God which paſſeth all underſtanding, ſhould keep their hearts and minds through Chriſt Jeſus.</hi>
+            </p>
+            <p>My deſign at preſent is, to conſider the Apoſtle's advice for preventing or removing thoſe troubles which too often ariſe among Men, by their unneceſſary and over-eager con<g ref="char:EOLhyphen"/>tentions among themſelves; of which troubles, we of this <hi>Church</hi> and <hi>Nation</hi> have had ſuch long and ſad experience, that we may be thought, by this time, to <hi>deſire,</hi> as much as we <hi>need,</hi> the Remedy. The Rule which the Apoſtle hath preſcribed in this caſe, is, <hi>Let your moderation be known unto all men;</hi> and becauſe the obſervance of this Rule is both neceſſary and difficult, he
+<pb n="3" facs="tcp:49216:5"/>hath inforc'd it with a weighty Argument, <hi>The Lord is at Hand.</hi> My buſineſs therefore will be to explain the <hi>Rule</hi> preſcrib'd; To urge the <hi>Argument</hi> annex'd; And to make a ſeaſonable <hi>Application</hi> of the whole.</p>
+            <p n="1">1. I begin to explain the Rule preſcrib'd in theſe Words, <hi>Let your Moderation be known unto all Men.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Let that moderate or temperate frame of Spi<g ref="char:EOLhyphen"/>rit, which belongs to you as Chriſtians, be ſeen in your Behaviour toward all with whom you Converſe: Or let it appear in your Con<g ref="char:EOLhyphen"/>verſation ſo conſpicuous and exemplary, that all Men, may ſee and acknowledg it, and be thereby induc'd to love you and the Religion you profeſs. That we may clearly underſtand the whole importance of this precept, it will be convenient to conſider diſtinctly theſe three things:
+<list>
+                  <item>1. The <hi>Nature</hi> of this <hi>Moderation,</hi> or where<g ref="char:EOLhyphen"/>in it conſiſts.</item>
+                  <item>2. It's <hi>Subject-matter,</hi> or the Caſes wherein it ſhould be known or manifeſted.</item>
+                  <item>3. Its <hi>Object,</hi> or the Perſons toward whom it ſhould be us'd and practic'd.</item>
+               </list>
+            </p>
+            <p n="1">1. Let us enquire into the <hi>Nature</hi> of this
+<pb n="4" facs="tcp:49216:6"/>
+               <hi>Moderation,</hi> that we may find out wherein it properly conſiſts. The <hi>Engliſh</hi> word <hi>Moderation</hi> occurs no where in our Bibles, but only in this Text: the <hi>Greek</hi> word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, are oftener uſed, and are rendred by other Words, by our Tranſlators in other Texts, as they are by other Tranſlators in this Text, ſuch as <hi>Gentleneſs, Meekneſs, Clemency, Patience, Equity, Condeſcenſion,</hi> &amp;c. From which variety of Tranſlations, we may reaſonably preſume, that this <hi>Moderation</hi> is not one <hi>single</hi> Grace, but rather ſome <hi>Frame</hi> or <hi>Temper</hi> that ariſeth out of a Complexion of many particu<g ref="char:EOLhyphen"/>lar Graces; and that the general Deſign of its nature, is to fit Men for converſing together in Society, to which end thoſe ſocial Vertues pro<g ref="char:EOLhyphen"/>perly ſerve, of which this excellent Temper is compounded.</p>
+            <p>Our <hi>Engliſh</hi> word <hi>Moderation,</hi> may properly denote ſuch Government of our Spirits, or Behaviour toward others, as can contain us within due Bounds, or reſtrain us from flying out into ſuch Extremes, as would break aſun<g ref="char:EOLhyphen"/>der that Bond of Peace, which ſhould hold together the Members of the ſame Society. The <hi>Greek</hi> word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is derived from
+<pb n="5" facs="tcp:49216:6"/>a Verb that ſignifies to <hi>give way,</hi> or <hi>give place;</hi> to <hi>comply</hi> or <hi>condeſcend:</hi> And the Primitive uſe of the Word in the Schools, or at the Bar, whence it ſeems to be taken, imports that <hi>Equi<g ref="char:EOLhyphen"/>ty,</hi> which is ſometimes deſcribed by Learned Men, to be the <hi>Condeſcention</hi> or <hi>Benignity</hi> of the <hi>Law,</hi> whereby it yields and complies in ſome emergent Caſes, with which the rigor of its Letter would unequally comport.</p>
+            <p>According to theſe Obſervations, we may be able to fix the proper Notion of this com<g ref="char:EOLhyphen"/>prehenſive Grace, or Duty of <hi>Moderation. It is ſuch an excellent frame or temper of ſpirit, where<g ref="char:EOLhyphen"/>by we are able to make all favourable Conceſſions and Condeſcentions one to another, as far as God hath left us at liberty to do ſo, for the Peace and Welfare of the Society to which we are related.</hi> That this de<g ref="char:EOLhyphen"/>ſcription may be better underſtood, I will take it in pieces, and briefly Paraphraſe on the ſe<g ref="char:EOLhyphen"/>veral parts of it.</p>
+            <p n="1">1. This <hi>Moderation</hi> conſidered, as a <hi>Grace</hi> or <hi>inward Habit,</hi> is that <hi>frame</hi> or <hi>temper of Spirit,</hi> which reſults from all thoſe perticular Virtues which <hi>moderate</hi> and <hi>contains</hi> our Paſſions, in our Converſes and Dealings one with another: It is ſuch a Government of our Spirits, as can
+<pb n="6" facs="tcp:49216:7"/>conduct our deſultory Paſſions with <hi>Prudence,</hi> check their tranſports with <hi>Modeſty,</hi> ſubmit their Pride with <hi>Humility;</hi> as can ſoften them with <hi>Meekneſs,</hi> ſweeten them with <hi>Kindneſs,</hi> ſtrengthen them with <hi>Patience,</hi> and reſtrain them with <hi>Forbearance;</hi> ſo that our Paſſions ſhall at no time render us <hi>averſe</hi> to any of our relative Duties, or <hi>prone</hi> to quarrel and contend with others, or <hi>difficult</hi> to be appeas'd and reconcil'd, whatever Diſcouragements or Provocations we may meet with. Such a Temper ſhould be in all Chriſtians, who are ſo earneſtly exhorted to <hi>put on bowels of mercy, kindneſs, humbleneſs of mind,<note place="margin">Gol. 3.12, 13.</note> meekneſs, long-ſuffering, forbearing, and for<g ref="char:EOLhyphen"/>giving one another, if any man hath a quarrel againſt any.</hi> I could not forbear adding the Epithet of <hi>excellent</hi> to ſuch a frame and temper of Spirit, which is ſo eminent a Perfection of our Nature, whereby we are removed fartheſt from the fe<g ref="char:EOLhyphen"/>rity of Bruits, into the neareſt reſemblance of God himſelf.</p>
+            <p n="2">2. This <hi>Moderation</hi> conſider'd as a Duty, con<g ref="char:EOLhyphen"/>ſiſts fiſts in a practice ſuitable to ſuch an excellent Temper, in <hi>conceding</hi> and <hi>condeſcending</hi> one to another, when neceſſary to preſerve, or reſtore Peace and Amity among thoſe who are rela<g ref="char:EOLhyphen"/>ted
+<pb n="7" facs="tcp:49216:7"/>together in the ſame Society. So great is the general <hi>Ignorance</hi> and <hi>Weakneſs</hi> of mankind, that it is not poſſible for us to converſe toge<g ref="char:EOLhyphen"/>ther in Society, without <hi>juſtling</hi> and <hi>diſturbing</hi> one another, except we can ſometimes <hi>give way,</hi> and <hi>condeſcend</hi> one to another: And herein conſiſts our Duty of <hi>Moderation,</hi> ſo to govern our be<g ref="char:EOLhyphen"/>haviour, as for Peace-ſake to <hi>yield</hi> and <hi>ſubmit</hi> ſometimes, altho we think our ſelves to be in the <hi>right;</hi> and to <hi>comply</hi> ſometimes with our Bre<g ref="char:EOLhyphen"/>thren, who are not able to diſcern that they are in the <hi>wrong;</hi> not by running into the ſame miſtake, but by bearing with them, and con<g ref="char:EOLhyphen"/>deſcending to them, till they can be recovered out of it. So much we are taught in thoſe Di<g ref="char:EOLhyphen"/>vine Precepts,<note place="margin">5 Eph. 21. 1 Pet. 5.5</note> which require us to <hi>ſubmit our ſelves one to another in the fear of God:</hi> To be <hi>ſub<g ref="char:EOLhyphen"/>ject one to another, and cloath'd with Humility:</hi> And no leſs did St. <hi>Paul</hi> practice, who himſelf tells us, <hi>Tho I be free from all men,<note place="margin">1 Cor. 9.19</note> yet have I made my ſelf ſervant unto all:</hi> And as he afterwards adds, <hi>he became all things to all men,</hi> in ſuch a compliant Condeſcention.</p>
+            <p n="3">3. To prevent any miſtake, I add, That this <hi>Moderation</hi> will diſpoſe us to condeſcend and comply with others only in ſuch caſes, and ſo
+<pb n="8" facs="tcp:49216:8"/>far as <hi>God hath left us at liberty to do ſo.</hi> For if any caſes of difference ariſe about the neceſſary Ar<g ref="char:EOLhyphen"/>ticles of our <hi>Faith,</hi> which God hath plainly revea<g ref="char:EOLhyphen"/>led; or about the ſubſtantial Parts of our Religi<g ref="char:EOLhyphen"/>ous <hi>Worſhip,</hi> or the Moral Duties of a <hi>Holy Life,</hi> which God hath indiſpenſably required; ſuch caſes are not to be compromis'd by the Con<g ref="char:EOLhyphen"/>deſcentions of Compliances of <hi>Moderation;</hi> we have here no Right to yield, no Place to give; we are commanded to contend earneſtly for <hi>theſe</hi> things, and to prefer them to Peace, or Life it ſelf; in <hi>theſe</hi> caſes <hi>Zeal</hi> is lawful and com<g ref="char:EOLhyphen"/>mendable; and a <hi>Compliance</hi> with men, would be the baſeſt <hi>Treachery</hi> to our Lord in Heaven; and therefore <hi>Moſes</hi> laid aſide his <hi>meekneſs,</hi> when he contended with the people of <hi>Iſrael</hi> againſt their Idolatry; and ſo did our Apoſtle this <hi>mo<g ref="char:EOLhyphen"/>deration,</hi> when he <hi>ſharply rebuked</hi> St. <hi>Peter</hi> to his face, for ſubverting the Faith of the <hi>Gentiles,</hi> by his <hi>Judaizing Compliances.</hi>
+            </p>
+            <p>But there are many other caſes of difference, that may happen among us, which the Wiſdom of God hath not thought fit to determine by any neceſſary injunction, wherein he hath left us at liberty to <hi>yield</hi> and <hi>comply</hi> one with another; and where we <hi>may,</hi> we <hi>ought</hi> to do it; this ſeeming
+<pb n="9" facs="tcp:49216:8"/>to be the chief reaſon for which our great Lord hath left ſuch caſes <hi>undetermined,</hi> that we might never want a ſufficient occaſion for <hi>exerciſing</hi> and <hi>approving</hi> this excellent grace of <hi>Moderation.</hi>
+            </p>
+            <p n="4">4. The <hi>End</hi> for which this <hi>Moderation</hi> ſerves, and ſhould be practiſed by us, is the <hi>Peace and Welfare of the Society to which we are re<g ref="char:EOLhyphen"/>lated.</hi> To this end, <hi>Moderation</hi> is neceſſary to <hi>ward</hi> off or <hi>heal</hi> up thoſe <hi>wounds</hi> in the <hi>Body,</hi> which would be <hi>made</hi> and <hi>widened</hi> by the <hi>angry Quarrels</hi> of its <hi>Members;</hi> and to <hi>cheriſh</hi> that <hi>Peace</hi> on which the <hi>publick Safety</hi> and <hi>Proſperity</hi> do chiefly <hi>depend.</hi> And from this <hi>end</hi> we may infer both the <hi>Reaſon</hi> and the <hi>Meaſure</hi> of our duty. We ought to <hi>deny</hi> our ſelves in <hi>complying</hi> with others, when neceſſary for the <hi>Publick Good,</hi> becauſe the intereſt of the <hi>whoſe</hi> ſhould be always pre<g ref="char:EOLhyphen"/>fer'd to the private intereſt of any <hi>part;</hi> and as we <hi>need</hi> not thus yield and condeſcend to others when there is no ſuch end to be ſerved by it; ſo we <hi>ought</hi> to do it in ſuch caſes, and ſo far as is neceſſary to maintain the Peace and Welfare of the Society to which we belong.</p>
+            <p>This excellent Temper of Spirit, will in<g ref="char:EOLhyphen"/>deed ſerve to many other good purpoſes, but the name of <hi>Moderation</hi> belongs to it chiefly, as
+<pb n="10" facs="tcp:49216:9"/>it reſpects the <hi>Publick Good;</hi> and tho we may ſometimes commendably comply with others, either out of <hi>Prudence,</hi> reſpecting <hi>our own</hi> pri<g ref="char:EOLhyphen"/>vate Intereſts; or out of Charity, reſpecting the private Intereſts of <hi>others;</hi> yet we do it proper<g ref="char:EOLhyphen"/>ly from this Principle of <hi>Moderation,</hi> when we reſpect the <hi>Publick</hi> good; and I may add, as a juſt conſequence from thence, that whatever <hi>Compliances</hi> we make with others, which are in<g ref="char:EOLhyphen"/>conſiſtent with the <hi>Common-weal,</hi> they are not to be called <hi>Moderation,</hi> but <hi>Faction</hi> and <hi>Conſpi<g ref="char:EOLhyphen"/>racy.</hi>
+            </p>
+            <p n="2">2. Having diſcovered wherein, the <hi>general nature</hi> of this <hi>Moderation</hi> conſiſts, let us deſcend to thoſe <hi>particular caſes</hi> wherein it ſhould be <hi>known</hi> or manifeſted in our conſtant exerciſe and exemplary practice of it. <hi>Theſe</hi> are all ſuch caſe of <hi>difference,</hi> as may happen in our <hi>Civil</hi> or <hi>Sacred</hi> Societies; which God hath thought fit to leave <hi>undetermined,</hi> which tho numerous and various, may be reduc'd to theſe Four Heads, of <hi>Opinion, Practice, Interest,</hi> and <hi>Cenſure.</hi>
+            </p>
+            <p n="1">1. We ſhould uſe this Moderation in <hi>aſſert<g ref="char:EOLhyphen"/>ing our own Opinions,</hi> or in oppoſing the <hi>Opinions</hi> of <hi>others.</hi> They who are of this <hi>excellent Tem<g ref="char:EOLhyphen"/>per,</hi> will be too <hi>modest</hi> to <hi>admire</hi> themſelves, or
+<pb n="11" facs="tcp:49216:9" rendition="simple:additions"/>
+               <hi>impoſe</hi> on others; they will not <hi>diſturb</hi> the World with an unneceſſary <hi>Paradox,</hi> nor urge their Opinions with an <hi>Importunity</hi> that exceeds their <hi>Importance;</hi> nor require an <hi>Entertainment</hi> for them, beyond the <hi>Evidence</hi> with which they can <hi>recommend</hi> them, whereby much of the noiſe and fury of our <hi>Contentions</hi> would be prevented. And if this Chriſtian <hi>Temper</hi> did moderate in our <hi>Diſputations,</hi> we ſhould <hi>defend</hi> our Opinions with <hi>ſoft</hi> words, and <hi>calm</hi> paſſions; we ſhould not delight in <hi>contradicting</hi> others, or be impati<g ref="char:EOLhyphen"/>ent of being <hi>contradicted</hi> our ſelves; we ſhould ſeek <hi>Truth</hi> more than Victory, and ſtudy ra<g ref="char:EOLhyphen"/>ther to <hi>compoſe</hi> than <hi>maintain</hi> the Controverſie. Such, ſaith St. <hi>Paul,</hi> ſhould the Servant of the Lord be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not a <hi>contentious,</hi> but a <hi>moderate</hi> man,<note place="margin">1 Tim. 3.3. 2 Tim. 2.25.</note> one who will with <hi>meekneſs in<g ref="char:EOLhyphen"/>ſtruct his Opponent.</hi>
+            </p>
+            <p>We ſhould alſo manifeſt our <hi>Moderation,</hi> in bearing a due <hi>reſpect</hi> to the <hi>Perſons</hi> and <hi>Judg<g ref="char:EOLhyphen"/>ments</hi> of thoſe who diſſent from us, interpret<g ref="char:EOLhyphen"/>ing their Opinions <hi>candidly,</hi> and <hi>weighing</hi> their Arguments <hi>impartially,</hi> as more ready to agree than differ with them; and if at laſt, the Truth ſhould appear to be on our ſide, this <hi>Moderation</hi> ſhould impoſe <hi>ſilence</hi> on us, if the
+<pb n="12" facs="tcp:49216:10"/>
+               <hi>fury</hi> of the <hi>Controverſie</hi> be like to do more <hi>miſ<g ref="char:EOLhyphen"/>chief,</hi> than the <hi>defence</hi> of the <hi>controverted Point</hi> will be able to <hi>compenſate.</hi> With ſuch <hi>Moderati<g ref="char:EOLhyphen"/>on</hi> we ſhould be able to frame our Opinions with more <hi>Truth,</hi> and to maintain them with move <hi>Peace;</hi>
+               <note place="margin">4 Eph. 15.</note> or in the Apoſtle's Phraſe, to <hi>ſpeak the truth in love.</hi>
+            </p>
+            <p n="2">2. This <hi>Moderation</hi> ſhould influence our <hi>Actions</hi> and <hi>Behaviour,</hi> to render us as agreeable and conformable, as may be, to thoſe with whom we converſe. Altho in <hi>private</hi> we may conduct our Actions according to our own <hi>pru<g ref="char:EOLhyphen"/>dence</hi> or <hi>pleaſure;</hi> yet when we appear <hi>abroad,</hi> we ſhould bend our humour into a <hi>compliance</hi> with all the <hi>innocent Uſages</hi> and <hi>Cuſtoms</hi> of the world about us; not affecting any needleſs <hi>ſingularity,</hi> or unneceſſary <hi>Names</hi> or <hi>Badges</hi> of <hi>Diſtinction;</hi> nor indulging our ſelves in the perverſe frow<g ref="char:EOLhyphen"/>ardneſs of <hi>walking contrary</hi> to others.</p>
+            <p>They who have attain'd to this excellent Temper, will ſuffer their <hi>Chriſtan Liberty</hi> to be reſtrained by the <hi>juſt Laws</hi> of their <hi>Superiors,</hi> or will reſtrain it themſelves in a <hi>charitable com<g ref="char:EOLhyphen"/>pliance</hi> with their weaker Brethren. Such a Mo<g ref="char:EOLhyphen"/>deration would beget ſuch good <hi>Humours,</hi> or good <hi>Manners</hi> among Chriſtians, thereby they
+<pb n="13" facs="tcp:49216:10"/>might converſe together, without provoking one another, or diſturbing the Society in which they live. So our Bleſſed Saviour lived in the World, complying with all the <hi>innocent Cuſtoms</hi> of the <hi>Jewiſh</hi> Nation, and with all the <hi>lawful Rituals</hi> of the <hi>Jewiſh</hi> Church. So lived St. <hi>Paul,</hi>
+               <note place="margin">1 Cor. 10.32, 33.</note> and ſo he hath taught us, <hi>Give none offence neither to the Jew nor to the Gentile, nor to the Church of God; even as I pleaſe all men in all things, not ſeek<g ref="char:EOLhyphen"/>ing mine own profit, but the profit of many, that they may be ſav'd.</hi>
+            </p>
+            <p n="3">3. We ſhould practice this <hi>Moderation</hi> in purſuing or vindicating our <hi>Interests,</hi> whence the moſt and ſharpeſt Contentions do uſually ariſe. We ſhould not only reſtrain our <hi>ſelf-love</hi> from running out into the <hi>vicious exceſſes</hi> of Co<g ref="char:EOLhyphen"/>vetouſneſs and Ambition; but alſo <hi>remit</hi> it to ſuch a degree, as to be able to <hi>abate</hi> in our <hi>juſt pretences,</hi> to brook <hi>diſappointments,</hi> and to make our <hi>own</hi> Intereſts ſometimes to <hi>bend</hi> and <hi>give way,</hi> that the Intereſts of <hi>others</hi> may have alſo room to advance. He that can govern his Spirit with <hi>Moderation,</hi> he will not <hi>seek his own things only,</hi>
+               <note place="margin">2 Phil. 4. 15 Rom. 1.2.</note> 
+               <hi>but alſo the things of others;</hi> he will even in his <hi>Religious</hi> Concernments, not <hi>pleaſe himſelf, but pleaſe his neighbour for his good to Edification;</hi> and
+<pb n="14" facs="tcp:49216:11"/>much more will he do ſo in his <hi>ſecular</hi> Intereſts, which are of leſs value. He will not exact <hi>Tittles</hi> and <hi>Punctilio</hi>'s, or ſtrain his Right to a <hi>ſum<g ref="char:EOLhyphen"/>mum jus,</hi> but will rather <hi>condeſcend</hi> not only to <hi>accept,</hi> but to <hi>offer</hi> any tolerable terms of Accom<g ref="char:EOLhyphen"/>modation, to preſerve Peace, as <hi>Abraham</hi> did to <hi>Lot,</hi> when their Herdſmen quarrel'd about their Paſtures.<note place="margin">13 Gen. 8, 9.</note>
+            </p>
+            <p>When alſo we are provok'd by <hi>Wrongs</hi> and unjuſt <hi>Reproaches,</hi> this <hi>Moderation</hi> ſhould reſtrain and <hi>qualifie</hi> our Spirits, that we may be able to interpret the injury <hi>candidly,</hi> to reſent it <hi>meekly,</hi> to bear it <hi>patiently,</hi> to forgive it <hi>eaſily,</hi> and to requite it only with <hi>Prayers</hi> and <hi>Bleſſings,</hi> till we <hi>overcome evil with good;</hi> as our Holy Religi<g ref="char:EOLhyphen"/>on hath taught us for preſerving that Peace it ſo earneſtly recommends.</p>
+            <p n="4">4. This <hi>Moderation</hi> ſhould appear alſo in the <hi>Cenſures</hi> we paſs on our ſelves or others; ſup<g ref="char:EOLhyphen"/>preſſing that <hi>Self-conceit</hi> which uſually begins the Quarrel, and that <hi>Contempt</hi> of others which uſually attends it. We are too apt to <hi>flatter</hi> our ſelves, or our Party, with the beſt Names, and the faireſt Encomiums, and to <hi>miſrepreſent</hi> others, eſpecially when Emulation and Strife have tinctur'd our eye with too much <hi>Choler,</hi>
+               <pb n="15" facs="tcp:49216:11"/>and put <hi>them</hi> at too great a <hi>distance</hi> from us; and therefore do greatly need this <hi>Moderation</hi> to govern our Spirits, that we may neither <hi>Abuſe</hi> our ſelves, nor our Brethren with an <hi>unrighte<g ref="char:EOLhyphen"/>ous</hi> Judgment.</p>
+            <p>We ſhould <hi>Ballance</hi> our overfond thoughts of our ſelves, with an impartial diſcovery of our ſhameful <hi>Defects,</hi> and numerous <hi>Faults,</hi> which will ſoon be enough to weigh down the <hi>Me<g ref="char:EOLhyphen"/>rits</hi> which are ſo apt to exalt us: And we ſhould allow to others the priviledg of every Plea that may be made in their excuſe, from Ignorance or Weakneſs, from the Prepoſſeſſions of Edu<g ref="char:EOLhyphen"/>cation, from perſonal Prejudices, or invincible Temptations, or from the want of neceſſary means for their Conviction; and ſhould be ready to cover their Faults with the faireſt gloſſes their Actions will bear, and to commend what they do well, with all the advantages that a ſincere Charity can ſuggeſt. When we are come to ſuch a Temper, then may the Apoſtle's rule obtain among us,<note place="margin">Philip. 2.3.</note> 
+               <hi>Let nothing be done through ſtrife or vain-glory, but in lowlineſs of mind, let each eſteem others better than himſelf.</hi>
+            </p>
+            <p n="3">3. We are to conſider, in the laſt place, the <hi>Object,</hi> or Perſons towards whom this <hi>Modera<g ref="char:EOLhyphen"/>tion</hi>
+               <pb n="16" facs="tcp:49216:12" rendition="simple:additions"/>ſhould be exerciſed; it ſhould be known, ſaith the Text, <hi>to all Men, i. e.</hi> this <hi>Moderation</hi> reſpects all Men univerſally in the Habit, and every Man particularly with whom we con<g ref="char:EOLhyphen"/>verſe in the actual exerciſe, and eſpecially, thoſe to whom we are related in the publick Society, either of Church or State.</p>
+            <p>They ſhamefully elude this Precept, who expect ſuch <hi>Moderation</hi> from others, but will not practice it themſelves; or who will uſe it only toward their own Party, who conſent with them, and conſequently need no Conde<g ref="char:EOLhyphen"/>ſcention from them; whereas it chiefly reſpects ſuch as are at difference with us for containing us together within the Bond of Peace.</p>
+            <p>All Men are concern'd in this Duty of <hi>Mode<g ref="char:EOLhyphen"/>ration,</hi> either as their <hi>Duty</hi> which they ought to practice, or as their <hi>Privilledge,</hi> with which they are to be treated by others. Every Man, who is the Member of a Society, ought to be indued with this excellent Temper of <hi>Moderation,</hi> with<g ref="char:EOLhyphen"/>out which no Man can diſcharge thoſe Offices he ownes to the Society, or receive thoſe Benefits he expects from it; for this is to a <hi>political</hi> Body, what joints and ſinews are to the <hi>natural</hi> Body, whereby the Members bend and comply to a
+<pb n="17" facs="tcp:49216:12"/>mutual defence and ſupport of the whole; and he who wants it, is like a Limb of Wood or Stone, <hi>uſeleſs</hi> and <hi>burthenſome.</hi> No Perſon can be <hi>above</hi> the practice of this <hi>Duty,</hi> nor any one fall <hi>beneath</hi> this <hi>Priviledg;</hi> without this no <hi>Coun<g ref="char:EOLhyphen"/>ſels</hi> can be well adviſed, or any Affairs rightly adminiſtred, or any Order or Peace preſerv'd.</p>
+            <p>With this <hi>Moderation, Superiors</hi> ſhould treat their <hi>Inferiors,</hi> framing their Laws with <hi>Cle<g ref="char:EOLhyphen"/>mency,</hi> and <hi>Adminiſtring</hi> them with <hi>Equity,</hi> where<g ref="char:EOLhyphen"/>by they become in St. <hi>Peter</hi>'s Phraſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">1 Pet. 2.18.</note> which we render, <hi>Good and Gentle.</hi> With the ſame <hi>Moderation,</hi> ſhould <hi>Inferiors</hi> ſub<g ref="char:EOLhyphen"/>mit to thoſe that are <hi>over them,</hi> not only to the <hi>Good and Gentle, but alſo to the froward,</hi> interpret<g ref="char:EOLhyphen"/>ing their Actions candidly, obeying their Com<g ref="char:EOLhyphen"/>mands chearfully, and ſubmitting meekly to their Impoſitions, even to the Prejudice of their private Intereſts, when requiſite to the Publick Good. With ſuch <hi>Moderation</hi> alſo <hi>Equals</hi> ſhould meet together on their level, without interfering, or quarrelling one with a<g ref="char:EOLhyphen"/>nother, <hi>Speaking evil of no man,<note place="margin">Titus 3.2.</note> being not brawlers or contentious, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, gentle, ſhewing meek<g ref="char:EOLhyphen"/>neſs unto all men.</hi> In a word, this <hi>Moderation</hi> is ſo neceſſary to all Perſons, and in all Conditions
+<pb n="18" facs="tcp:49216:13"/>and Offices of Life, that ſome have thought fit to render the Original Word in the Text, by the general Name of <hi>Humanity.</hi> This may ſuffice for explaining the Precept, injoyn'd in the former part of the Verſe.</p>
+            <p n="2">2. I proceed to conſider the <hi>Argument</hi> an<g ref="char:EOLhyphen"/>nex'd for inforcing the practice of the forego<g ref="char:EOLhyphen"/>ing Rule, in thoſe Words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Lord is at hand.</hi> The words are few, but weighty, either of them is a Topick pregnant with very cogent Motives, whether we conſider the <hi>Lord,</hi> who is at hand, or the <hi>nearneſs</hi> of that Lord to us.</p>
+            <p n="1">1. If we conſider that <hi>Lord</hi> who is at hand, ſeveral Arguments will ariſe <hi>from</hi> thence to ob<g ref="char:EOLhyphen"/>lige us to the practice of this <hi>Moderation.</hi>
+            </p>
+            <p n="1">1. He is the <hi>Lord,</hi> who hath an abſolute Au<g ref="char:EOLhyphen"/>thority over us, who expreſly commands this Duty. We acknowledg him to be ſuch a <hi>Lord,</hi> and we cannot but have obſerv'd how fre<g ref="char:EOLhyphen"/>quently and earneſtly his Laws recommend to us <hi>Meekneſs</hi> and <hi>Humility, Long-ſuffering</hi> and mutual <hi>Forbearance, Unity</hi> and <hi>Peace,</hi> which make up this comprehenſive Grace or Duty of <hi>Moderation.</hi> Theſe are the chief Parts or Pro<g ref="char:EOLhyphen"/>perties of that holy Religion he hath inſtituted;
+<pb facs="tcp:49216:13"/>
+               <pb facs="tcp:49216:14"/>
+               <pb n="19" facs="tcp:49216:14"/>for ſo St. <hi>James</hi> deſcribes that <hi>Wiſdom which is from above,</hi> it is <hi>pure, peaceable,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>gentle,</hi>
+               <note place="margin">James 3.17.</note> 
+               <hi>and eaſy to be intreated.</hi>
+            </p>
+            <p>Who then upon Earth hath Power to forbid that <hi>Moderation,</hi> which the <hi>Lord</hi> from Heaven hath preſcribed? How meanly or unkindly ſoever we may think of one another, yet ſhall we dare to deſpiſe the <hi>Lord</hi> or think lightly of one of his Precepts? Altho this Duty may be very irkſome to our carnal Heats, yet this muſt ſuperſede all our Cavilations and Reluctancies, that he, who is the <hi>Lord,</hi> commands it.</p>
+            <p n="2">2. He is the <hi>Lord</hi> of our <hi>Fellow-Servants,</hi> who hath indulged them the Priviledg to be <hi>treat<g ref="char:EOLhyphen"/>ed</hi> with ſuch <hi>Moderation,</hi> and therefore we may not deny it to them. If we account our ſelves the <hi>Children</hi> or <hi>Servants</hi> of that great <hi>Family,</hi> of which he is the <hi>Lord,</hi> we cannot but allow him the <hi>Right</hi> to make what Orders he thinks fit among us, and that it is our <hi>Duty</hi> to practice that <hi>Behaviour</hi> one towards another, which he hath appointed; to yield to every one thoſe <hi>Conceſſions</hi> and <hi>Priviledges</hi> which he hath granted them; to pay that <hi>reſpect,</hi> and ſhew that <hi>favour</hi> to our Brethren, which he hath allowed them, if not for <hi>their</hi> ſake, yet for the <hi>Lords</hi> ſake, who made the Allowance.</p>
+            <pb n="20" facs="tcp:49216:15"/>
+            <p>We read what care our Lord hath taken of thoſe, who through meanneſs, weakneſs, or rudeneſs of knowledg, ſeem to be leaſt in his heavenly Kingdom.<note place="margin">Matt. 9.6, &amp;c.</note> He tells us, That <hi>it is his Fa<g ref="char:EOLhyphen"/>thers pleaſure, that not one of them ſhould periſh;</hi> that he himſelf <hi>came to ſave them; that their Angels al<g ref="char:EOLhyphen"/>ways behold the face of his Father;</hi> that therefore no man ſhould <hi>deſpiſe</hi> or <hi>offend</hi> them; and if any did, it were <hi>better for him that a milſtone were hang'd about his neck, and he were drown'd in the depth of the Sea:</hi> And with a like Argument St. <hi>Paul</hi> preſſeth this <hi>Duty</hi> of <hi>Moderation, Let not him that eateth, deſpiſe him that eateth not; and let not him that eateth not,<note place="margin">Rom. 14.3, 4.</note> judg him that eateth; for God hath received him: Who art thou that judgeſt another mans ſervant? to his own Maſter he ſtandeth or falleth; yea, he ſhall be holpen up, for God is able to make him ſtand.</hi>
+            </p>
+            <p n="3">3. He, who is the Lord <hi>of us</hi> all, doth him<g ref="char:EOLhyphen"/>ſelf treat all of us with ſuch <hi>Moderation,</hi> whoſe <hi>Example</hi> ſhould <hi>direct</hi> and <hi>ingage</hi> us into a like practice one toward another. Altho he be the <hi>high</hi> and <hi>holy One,</hi> yet he condeſcends to accom<g ref="char:EOLhyphen"/>morate <hi>himſelf,</hi> his <hi>Laws,</hi> and his <hi>Providence,</hi> to our Capacity and Condition. He humbles his Glorious <hi>Majeſty</hi> in ſuch rude <hi>Repreſentations,</hi> as
+<pb n="21" facs="tcp:49216:15"/>we are capable of apprehending; he was content to renew his Law to us by <hi>Revelation,</hi> after we had defac'd the <hi>Original,</hi> which was at firſt im<g ref="char:EOLhyphen"/>preſs'd on our Nature; and he continues to teach us with <hi>line upon line, and precept upon pre<g ref="char:EOLhyphen"/>cept,</hi> as our dull Capacities can receive it. He is not <hi>ſtrict to mark what we do amiſs;</hi> he is <hi>ſlow to anger, and rich in mercy;</hi> he doth not <hi>afflict wil<g ref="char:EOLhyphen"/>lingly; he pitieth</hi> while he <hi>corrects;</hi> he <hi>meets</hi> his <hi>penitent prodigals</hi> more than <hi>half way; forgives</hi> them <hi>eaſily,</hi> and moſt <hi>affectionately</hi> embraceth them.</p>
+            <p>How eminent an Example of this <hi>Modera<g ref="char:EOLhyphen"/>tion</hi> was our Bleſſed Saviour, while he lived in the World, amidſt the Contradictions, Blaſ<g ref="char:EOLhyphen"/>phemies, and Perſecutions of the worſt of Men, whom yet he perſiſted to <hi>pity</hi> and <hi>inſtruct,</hi> and for whom he <hi>pray'd</hi> and <hi>died!</hi>
+            </p>
+            <p>How ill would it go with us, if our Lord ſhould not uſe ſuch <hi>Moderation</hi> toward us! But then, how unaccountably ſtrange muſt it ſeem, that the great <hi>Lord</hi> of Heaven ſhould <hi>condeſcend</hi> and <hi>concede</hi> ſo much to us, and we think it <hi>too much</hi> to do ſo to one another! that he ſhould be <hi>Lowly</hi> and <hi>Meek, Long-ſuffering,</hi> and <hi>eaſy</hi> to be <hi>intreated</hi> towards us; and we be <hi>Proud, Churliſh, Inexorable</hi> and <hi>Revengeful,</hi> one againſt another!
+<pb n="22" facs="tcp:49216:16"/>And therefore the Scriptures do ſo often recom<g ref="char:EOLhyphen"/>mend ſuch Duties to us from the obliging Pat<g ref="char:EOLhyphen"/>tern of Almighty God, and our Bleſſed Saviour.</p>
+            <p n="2">2. If we lay the <hi>Emphaſis</hi> on the other word, and conſider how <hi>nigh</hi> our Lord is to us; that will ſupply us with three Arguments more, according to the threefold Interpretation of the Phraſe, <hi>The Lord is at Hand.</hi>
+            </p>
+            <p n="1">1. The Lord is <hi>at hand</hi> in his <hi>Omnipreſence</hi> and <hi>Omniſcience,</hi> beholding and obſerving our temper and behaviour one toward another. So <hi>near</hi> is our Lord to us, that he knows our <hi>Thoughts,</hi> even be<g ref="char:EOLhyphen"/>fore our minds are conſcious of them; there is not a <hi>Word</hi> in our Tongue, but before we utter it, he knows it altogether; and there are none of our <hi>Ways</hi> or <hi>Actions</hi> in any diſtance of place, or un<g ref="char:EOLhyphen"/>der any coverts of Privacy or Darkneſs, which are hid from his All-ſeeing Eye,<note place="margin">Pſalm 139.</note> as the <hi>Pſalmiſt</hi> elegantly deſcribes his Omnipreſence.</p>
+            <p>Our Lord is thus at hand, as the great <hi>Maſter</hi> of the Family in which we live, <hi>obſerving</hi> curi<g ref="char:EOLhyphen"/>ouſly how his Orders are kept, taking ſtrict <hi>no<g ref="char:EOLhyphen"/>tice</hi> how all his Servants <hi>behave</hi> themſelves both towards him, and one toward another. Thus he walked amidſt the ſeven Golden Chandleſticks, obſerving whatever was <hi>Laudable</hi> or <hi>Culpable</hi>
+               <pb n="23" facs="tcp:49216:16"/>in the Churches of <hi>Aſia.</hi> He was ſo nigh to <hi>Saul</hi> when breathing out Rage and Fury againſt his Diſciples,<note place="margin">9 Acts. 4.</note> that he himſelf felt the Wounds of his Perſecution. And St. <hi>Peter</hi> tells us, that a <hi>meek</hi> and <hi>quiet Spirit</hi> in the private Society of a Fa<g ref="char:EOLhyphen"/>mily, and much more in the publick ſociety of his Church, is taken notice of by God,<note place="margin">1 Pet. 3.4.</note> &amp; is <hi>in his ſight of great Price.</hi> How careful then ſhould we be of practiſing this <hi>Moderation</hi> in our <hi>Actions,</hi> yea in our <hi>words,</hi> yea in our very <hi>thoughts,</hi> one toward ano<g ref="char:EOLhyphen"/>ther, ſeeing our Lord, who ſo ſtrictly commands it, is ſo near at hand to obſerve our carriage!</p>
+            <p n="2">2. The Lord is at hand in the courſe of his <hi>Providence,</hi> diſpoſing of us, and of all Events and Circumſtances about us, which ſhould highly engage us to the practice of this <hi>Moderation.</hi> That Lord who ſurrounds us with his continual Providence, makes us the <hi>opportunites</hi> we meet with for exerciſing this <hi>Moderation</hi> to others, which if we ſhould refuſe, how ſoon can he, with the turn of his hand, put us into a condi<g ref="char:EOLhyphen"/>tion to need a like <hi>Moderation</hi> to be us'd towards us? And how juſtly may we expect it, if we ſhould ſo highly provoke him? If we are wil<g ref="char:EOLhyphen"/>ling to comply with his Precept, he is <hi>at hand</hi> to <hi>aſſist</hi> us with his <hi>Grace,</hi> in the performance of
+<pb n="24" facs="tcp:49216:17"/>ſo difficult a duty, and to <hi>reward</hi> us for it with the Bleſſings of his Providence; but if we re<g ref="char:EOLhyphen"/>fuſe to practice this <hi>Moderation</hi> toward our fel<g ref="char:EOLhyphen"/>low-ſervants, we have no reaſon to expect any better treatment from them, or from our Lord himſelf.</p>
+            <p>They who conſider the inconſtant <hi>Revoluti<g ref="char:EOLhyphen"/>ons</hi> to which humane Affairs are ſubject, will think it <hi>prudent</hi> to grant ſuch <hi>conditions</hi> to others, which they may ſometime ask for themſelves; and they who believe God's <hi>Providence,</hi> and what he hath ſo often declared, that he <hi>reſiſteth the proud,</hi> and <hi>avengeth the cauſe of the oppreſſed,</hi> will think it neceſſary to approve themſelves to him in the practice of that <hi>Moderation</hi> he ſo expreſly requires.</p>
+            <p n="3">3. The Lord is at band to call us to an <hi>account</hi> of our behaviour both toward him, and one to<g ref="char:EOLhyphen"/>ward another; and it therefore highly concerns us to be found of him in <hi>good temper,</hi> and in <hi>good order;</hi> which Argument is thus expreſſed by St. <hi>James,</hi>
+               <note place="margin">James 9.</note> 
+               <hi>Grudg not one againſt another, brethren, leſt ye be condemned; behold the Judg ſtandeth at the door.</hi> Tho the Solemn Day of the General Judgment may be at a great diſtance, yet we have reaſon to expect a much ſhorter time for
+<pb n="25" facs="tcp:49216:17"/>the private <hi>Audit</hi> of particular Perſons, and of particular Churches and States, which have their own <hi>Fates</hi> and <hi>Periods</hi> within the greater Revolu<g ref="char:EOLhyphen"/>tion of the World. And our Lord is never near<g ref="char:EOLhyphen"/>er to enter into Judgment with us, than when we live moſt diſorderly and uncharitably among our ſelves; for he hath declared, that <hi>if any of his ſervants ſhall ſay in his heart,</hi>
+               <note place="margin">12 Mat. 45, 46.</note> 
+               <hi>My Lord delayeth his coming, and ſhall begin to beat the men-ſervants and maidens, and to eat and drink, and be drunken; the Lord of that ſervant ſhall come in a day that he looked not for him, and at an hour that he is not aware, and will cut him aſunder, and appoint him his porti<g ref="char:EOLhyphen"/>on with unbelievers.</hi>
+            </p>
+            <p>And when out Lord enters into Judgment with us, a great part of our account will conſiſt of our <hi>demeanour</hi> and <hi>carriage</hi> toward our fellow-ſervants, not only how <hi>juſtly</hi> and <hi>honestly,</hi> but alſo how <hi>humbly, meekly,</hi> and <hi>charitably,</hi> we have behaved our ſelves in our Converſes and Deal<g ref="char:EOLhyphen"/>ings one with another. And we are plainly foretold what Sentence we muſt expect; that he who will not forgive his fellow-ſervant a <hi>few pence,</hi> ſhall never be diſcharged by his Lord from the many Talents he is himſelf indebted;<note place="margin">18 Mat. 23, &amp;c</note> 
+               <hi>that he ſhall have judgment without mercy,</hi>
+               <note place="margin">2 James. 13.</note> 
+               <hi>that ſhew<g ref="char:EOLhyphen"/>ed
+<pb n="26" facs="tcp:49216:18"/>no mercy:</hi> That <hi>to them that are contentious, God will render indignation and wrath,</hi>
+               <note place="margin">2 Rom. 8, 9.</note> 
+               <hi>tribulation and anguiſh;</hi> i. e. That the righteous Judg will not uſe that <hi>Moderation</hi> towards them, which they refus'd at his command to practice towards others. If then we find our ſelves not much perſuaded to this Duty for our <hi>Lord</hi>'s ſake, or for our <hi>Brethren</hi>'s ſake, yet let us do it for our <hi>own</hi> ſake, that our great Judg may uſe ſuch <hi>Mode<g ref="char:EOLhyphen"/>ration</hi> towards us, in not being <hi>ſtrict</hi> to mark what we have done amiſs, or <hi>ſevere</hi> in puniſh<g ref="char:EOLhyphen"/>ing us according to our deſerts.</p>
+            <p n="3">3. I have now explain'd the Precept, and urg'd the Argument of the Text; it remains, that we make a ſeaſonable Application of both to our ſerves.</p>
+            <p n="1">1. In our firſt Reflections, we cannot forbear to <hi>condemn</hi> and <hi>bewail</hi> the <hi>ſcarcity</hi> and <hi>defect</hi> of this <hi>Moderation</hi> among us. It is too notorious to be diſſembled, how many of all Parties want this bleſſed Temper, who being <hi>ſtrangers</hi> to this <hi>Moderation,</hi> have become <hi>Enemies</hi> againſt it, and to ſuch a degree, as even to <hi>hate</hi> its very <hi>Name,</hi> and to <hi>blacken</hi> it with the <hi>worſt</hi> of Names, and to treat thoſe moſt <hi>unkindly,</hi> who would ſet any <hi>Leſſons</hi> or <hi>Patterns</hi> of this <hi>Moderation</hi> before
+<pb facs="tcp:49216:18"/>
+               <pb facs="tcp:49216:19"/>
+               <pb n="27" facs="tcp:49216:19"/>them. And what may add <hi>wonder</hi> to our La<g ref="char:EOLhyphen"/>mentation, they pretend in all this, a <hi>Zeal</hi> for the Publick Intereſts of <hi>Church</hi> and State, as if our caſe were ſo <hi>odd</hi> and <hi>peculiar,</hi> that that <hi>Mode<g ref="char:EOLhyphen"/>ration</hi> which is the beſt <hi>Preſervative</hi> of all other Societies, would be the greateſt <hi>bane</hi> of ours; or that <hi>Diviſions</hi> and <hi>Contentions</hi> would prove as great <hi>Bleſſings</hi> to us, as they are <hi>miſchieſs</hi> to others.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plutarch. inter <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Plutarch</hi> wonders what <hi>Solon</hi> meant by ma<g ref="char:EOLhyphen"/>king a Law, That it ſhould be a <hi>Reproach</hi> to any man to be a <hi>Neuter</hi> in a time of pub<g ref="char:EOLhyphen"/>lick Diſſentions; becauſe as he argues, he left never a Wiſe man to arbitrate amidſt the li<g ref="char:EOLhyphen"/>tigant Parties, or ever a ſober Citizen for the reſt to reform by. And among his other Politi<g ref="char:EOLhyphen"/>cal Precepts, he adviſeth, That a Magiſtrate ſhould above all things take care to cheriſh Peace and Concord,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ibid.</note> and to ſuppreſs all diſſen<g ref="char:EOLhyphen"/>tions and quarrels in the Commonwealth, and he inſtructs them to uſe this Argument to thoſe that are at variance, That they who can for<g ref="char:EOLhyphen"/>give and comply with others, do excel them in Wiſdom, and Greatneſs of Spirit, as much as they do in Moderation and Good Nature.</p>
+            <p>But when we conſider what painful Convulſi<g ref="char:EOLhyphen"/>ons
+<pb n="28" facs="tcp:49216:20"/>this <hi>bitter zeal</hi> hath for a long time produc'd among us, and to what eminent <hi>dangers</hi> it late<g ref="char:EOLhyphen"/>ly expoſed us, that its <hi>fervour</hi> doth not yet re<g ref="char:EOLhyphen"/>mit, but rather increaſe; renders our caſe ſo <hi>ſad</hi> and <hi>ſtrange,</hi> that we cannot account for it, without recurring to a <hi>ſuperiour</hi> Cauſe, and ac<g ref="char:EOLhyphen"/>knowledging that an <hi>Evil Spirit</hi> from the Lord is gone out among us, as a <hi>Tempter</hi> to ſeduce us, and a <hi>Tormentor</hi> to puniſh us; and we have great reaſon to <hi>bewail</hi> that <hi>ill Temper</hi> we are in, both as a <hi>heinous Sin,</hi> and as a <hi>dreadful Judgment.</hi>
+            </p>
+            <p n="2">2. Suffer me in the Concluſion to <hi>Exhort</hi> and <hi>Perſuade</hi> you to this Moderation, with an earneſt<g ref="char:EOLhyphen"/>neſs that its Nature deſerves, and our Neceſſities require. Let me beſeech you by the <hi>Authority</hi> of Almighty God, that requires it; by the <hi>meekneſs</hi> and <hi>gentleneſs</hi> of Chriſt, who was ſo eminent a Pattern of it; by the <hi>Honour</hi> and <hi>Safety</hi> of that pure <hi>Religion</hi> we profeſs; by the <hi>Settlement</hi> and <hi>Proſperity</hi> of the <hi>Church</hi> and <hi>Nation</hi> to which we are related; by all the <hi>Intereſts</hi> that are dear to us in this World, and the <hi>Rewards</hi> of the next, that your <hi>Moderation be known unto all men.</hi>
+            </p>
+            <p>Let Meekneſs and Humility, Patience and Forbearance, Brotherly-kindneſs and Charity, exalt our ſpirits into this excellent <hi>Temper,</hi> which
+<pb n="29" facs="tcp:49216:20"/>would ſoon compromiſe all our <hi>Differences,</hi> and reſtore that <hi>peace,</hi> which would <hi>ſweeten</hi> and <hi>ſe<g ref="char:EOLhyphen"/>cure</hi> all our Injoyments. Let us lay aſide all re<g ref="char:EOLhyphen"/>proachful <hi>Names</hi> of <hi>Diſtinction;</hi> let us no longer <hi>upbraid</hi> one another with any paſt <hi>Miſcarriages;</hi> or return the <hi>Injuries</hi> we have received, in any <hi>Unchriſtian Revenges;</hi> let us readiy forgive thoſe who <hi>Diſclaim</hi> their former <hi>Errors;</hi> and with <hi>Meekneſs</hi> inſtruct thoſe, who cannot yet extricate themſelves from them: Let us <hi>condeſcend</hi> and <hi>comply</hi> one with another, as far as we can with a good Conſcience, to recover that <hi>Unity</hi> and <hi>Amity</hi> we have loſt; and <hi>let us mark thoſe, who would cauſe Diviſions among us, to avoid them.</hi> Let us contend no longer, except in a kind <hi>Emu<g ref="char:EOLhyphen"/>lation,</hi> who ſhall approve themſelves the <hi>wiſer Men,</hi> and <hi>better Chriſtians,</hi> in being moſt <hi>forward</hi> and <hi>earneſt,</hi> in ſeeding and making Peace.</p>
+            <p>Let us not be <hi>diſcourag'd</hi> or <hi>affrighted</hi> out of this <hi>Moderation,</hi> by the ill Arts of thoſe who are not ſo good themſelves, nor can endure to ſee ſo much <hi>good,</hi> as would be hereby wrought among us. Let us induſtriouſly <hi>incourage</hi> and <hi>promote</hi> this <hi>Moderation</hi> among all with whom we Converſe; and highly <hi>honour</hi> thoſe, in whom it moſt eminently appears, as the trueſt Friends
+<pb n="30" facs="tcp:49216:21"/>of our <hi>Church</hi> and <hi>Nation,</hi> who take the beſt courſe to <hi>advance</hi> and <hi>ſecure</hi> the Publick Intereſts of both.</p>
+            <p>It hath pleas'd God, by a moſt <hi>merciful Revo<g ref="char:EOLhyphen"/>lution</hi> of his Providence, to place us under a <hi>Go<g ref="char:EOLhyphen"/>vernment</hi> that excels in <hi>Moderation;</hi> that abhors the <hi>policy</hi> of <hi>weakning</hi> us by <hi>Diviſions,</hi> that it may <hi>advance</hi> it ſelf into an exorbitant Power; that earneſtly invites us to <hi>peace,</hi> and deſigns for us a <hi>happy</hi> and <hi>laſting</hi> Settlement. Let not us with a <hi>perverſe Frowardneſs</hi> oppoſe the kindeſt offers of God, and our Prince, but wiſely embrace the <hi>opportunity</hi> is made us, and thankfully accept the <hi>Bleſſings</hi> are caſt into our Boſoms. Then may we <hi>live</hi> as <hi>Chriſtians,</hi> and <hi>love</hi> as <hi>Brethren;</hi> then may <hi>Peace be within our Walls, and Proſperity with<g ref="char:EOLhyphen"/>in our Borders; then Mercy and Truth may meet together, and Righteouſneſs and Peace may kiſs each other.</hi>
+            </p>
+            <p>And when we are ſufficiently <hi>impyov'd</hi> in this <hi>Divine Temper</hi> of <hi>Moderation,</hi> we may be capable of <hi>Admiſſion</hi> into the bleſſed Society of <hi>Saints</hi> and <hi>Angels</hi> above, where are no <hi>Sects</hi> or <hi>Parties,</hi> no <hi>Quarrels</hi> or <hi>Contentions;</hi> but where we ſhall injoy the moſt delightful <hi>Entertainments</hi> of <hi>Love</hi> and <hi>Peace</hi> to all <hi>Eternity.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49216:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
